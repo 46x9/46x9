@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./agora sim.png" alt="46x9" width="100%"/>
+  <img src="./agorasimporra.png" alt="46x9" width="100%"/>
 </p>
 
 ---
