@@ -11,21 +11,14 @@
 
 ### 📊 System Specs
 <p align="center">
-<i>Machina</i>
-<i>Operating System
-			Windows 11 64 bit
-		CPU
-			Intel i7 14700k
-		RAM
-			32,0GB
-		Motherboard
-			ASUSTeK COMPUTER INC. TUF GAMING Z690-PLUS D4 (LGA1700)
-		Graphics
-			LG ULTRAGEAR (1920x1080@144Hz)
-			8176MB ATI AMD Radeon RX 7600 (ASUStek Computer Inc)
-		Storage
-			931GB KINGSTON SNV3S1000G (SATA-2 (SSD))
-</i>
+
+<code><span style="color: blue"> 🛠️ Machina</code><br>
+
+![Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=windows-11)
+![Intel i7-14700K](https://img.shields.io/badge/CPU-Intel%20i7--14700K-blue?logo=intel)
+![AMD Radeon RX 7600](https://img.shields.io/badge/GPU-AMD%20Radeon%20RX%207600-red?logo=amd)
+![RAM 32GB](https://img.shields.io/badge/RAM-32GB%20DDR4-lightgrey)
+![SSD 1TB](https://img.shields.io/badge/Storage-1TB%20SSD-orange)
 
 ---
 
