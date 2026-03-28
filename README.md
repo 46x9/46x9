@@ -21,8 +21,3 @@
 ![SSD 1TB](https://img.shields.io/badge/Storage-1TB%20SSD-orange)
 
 ---
-
-<p align="center">
-<i>"There is no spoon."</i><br>
-  <a href="https://github.com/46x9/46x9"><code>[RETURN TO REALITY]</code></a>
-</p>
