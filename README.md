@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-liminal-neon.svg" alt="46x9 Neon Banner" width="100%"/>
+  <img src="./LS2.svg" alt="46x9" width="100%"/>
 </p>
 
 ---
